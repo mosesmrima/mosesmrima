@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Vigil](github.com/mosesmrima/vigil)
 
-- 🌱 I’m currently learning **Reverse Enineering, Nand 2 Tetris 2**
+- 🌱 I’m currently learning **Reverse Engineering, Nand 2 Tetris 2**
 
 - 👨‍💻 All of my projects are available at [github.com/mosesmrima/](github.com/mosesmrima/)
 
