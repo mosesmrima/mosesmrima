@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moses Mrima Mbanga</h1>
 <h3 align="center">A passionate Web Developer and Cybersecurity enthusiast from Kenya</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mosesmrima" alt="mosesmrima" /></a> </p>
 
 - 🔭 I’m currently working on [Vigil](github.com/mosesmrima/vigil)
 
