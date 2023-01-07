@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Moses Mrima Mbanga</h1>
+<h1 align="center">Hi 👋, I'm Mrima</h1>
 <h3 align="center">A passionate Web Developer and Cybersecurity enthusiast from Kenya</h3>
 
 
