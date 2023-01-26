@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mrima</h1>
-<h3 align="center">A passionate Web Developer and Cybersecurity enthusiast from Kenya</h3>
+<h3 align="center">A passionate Software Engineer and Computer Security enthusiast from Kenya</h3>
 
 
 - 🔭 I’m currently working on [Vigil](github.com/mosesmrima/vigil)
