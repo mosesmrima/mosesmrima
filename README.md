@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [Vigil](github.com/mosesmrima/vigil)
 
-- 🌱 I’m currently learning **Reverse Engineering, Nand 2 Tetris 2**
+- 🌱 I’m currently learning **Solidity**
 
 - 👨‍💻 All of my projects are available at [github.com/mosesmrima/](github.com/mosesmrima/)
 
-- 💬 Ask me about **React, C, Threat Intelligence and Hunting**
+- 💬 Ask me about **React, Node, C, Threat Hunting and Reverse Engineering**
 
 - 📫 How to reach me **mrimamss@gmail.com**
 
