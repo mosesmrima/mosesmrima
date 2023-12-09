@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer/ Security Researcher</h3>
 
 
-- 🔭 I’m currently working on [Vigil](github.com/mosesmrima/vigil)
+- 🔭 I’m currently working on [IntelX](https://github.com/mosesmrima/intelX)
 
 - 🌱 I’m currently learning **Solidity**
 
