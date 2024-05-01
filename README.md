@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [IntelX](https://github.com/mosesmrima/intelX)
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Smart Contract Security**
 
 - 👨‍💻 All of my projects are available at [github.com/mosesmrima/](github.com/mosesmrima/)
 
