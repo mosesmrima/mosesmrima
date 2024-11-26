@@ -2,13 +2,6 @@
 <h3 align="center">Software Engineer/ Security Researcher</h3>
 
 
-- 🔭 I’m currently working on [IntelX](https://github.com/mosesmrima/intelX)
-
-- 🌱 I’m currently learning **Smart Contract Security**
-
-- 👨‍💻 All of my projects are available at [github.com/mosesmrima/](github.com/mosesmrima/)
-
-- 💬 Ask me about **React, Node, C, Threat Hunting and Reverse Engineering**
 
 - 📫 How to reach me **mrimamss@gmail.com**
 
