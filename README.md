@@ -1,13 +1,24 @@
-<h1 align="center">Hi 👋, I'm Mrima</h1>
-<h3 align="center">Software Engineer/ Security Researcher</h3>
+<h1 align="center"> I'm Mrima</h1>
+<h3 align="center">Security Researcher</h3>
+
+A complete overview of my security researcher adventure
+
+My accounts:
+[cantina](https://cantina.xyz/u/Mrima) | [codehawks](https://profiles.cyfrin.io/u/kvltbyte) | [code4rena](https://code4rena.com/@mrima) |  [sherlock](https://audits.sherlock.xyz/watson/mrima)
 
 
+## Audit Contests
+| Contest | Topic | Language / Stack | Ranking | Report |
+| - | :-: | :-: | :-: | :-: |
+| [RAAC](https://codehawks.cyfrin.io/c/2025-02-raac/) | RWA assets, liquidity management | Solidity | Judging | Judging |
+| [Next Generation](https://code4rena.com/audits/2025-01-next-generation) | Stable Coin | Solidity | Judging | Judging |
+| [Aave DIVA Wrapper](https://codehawks.cyfrin.io/c/2025-01-diva/) | Solidity, Hardhat| Solidity | | |
 
 - 📫 How to reach me **mrimamss@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mrima?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bqoqsh8kmti6ge47mirdk7g%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrima?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bqoqsh8kmti6ge47mirdk7g%3d%3d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mrima?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bqoqsh8kmti6ge47mirdk7g%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrima?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bqoqsh8kmti6ge47mirdk7g%3d%3d" height="20" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
