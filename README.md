@@ -1,10 +1,5 @@
 <h1 align="center"> I'm Mrima</h1>
-<h3 align="center">Security Researcher</h3>
-
-A complete overview of my security researcher adventure
-
-My accounts:
-[cantina](https://cantina.xyz/u/Mrima) | [codehawks](https://profiles.cyfrin.io/u/kvltbyte) | [code4rena](https://code4rena.com/@mrima) |  [sherlock](https://audits.sherlock.xyz/watson/mrima)
+<h3 align="center">Security Researcher/Software Engineer</h3>
 
 
 ## Audit Contests
@@ -13,6 +8,8 @@ My accounts:
 | [RAAC](https://codehawks.cyfrin.io/c/2025-02-raac/) | RWA assets, liquidity management | Solidity | Judging | Judging |
 | [Next Generation](https://code4rena.com/audits/2025-01-next-generation) | Stable Coin | Solidity | Judging | Judging |
 | [Aave DIVA Wrapper](https://codehawks.cyfrin.io/c/2025-01-diva/) | Solidity, Hardhat| Solidity | | |
+
+
 
 - 📫 How to reach me **mrimamss@gmail.com**
 
